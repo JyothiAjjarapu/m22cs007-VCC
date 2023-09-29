@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Assignment-1</h2>
+
+<p>Virtualization and Cloud Computing</p>
+
+<p style="background-image: url('templates/girl.jpg');">
+Hi, I am Ajjarapu Jyothi<br>
+Roll number : M22CS007<br>
+Department : Computer Science<br>
+This is a Docker Application.<br>
+Made from scratch..no in build images were used.<br>
+My image name is my-web-app.<br>
+The details of how I executed this will be shared in a read-me file<br>
+Thank you<br>
+Bye Bye!!!!<br>
+
+</p>
+
+</body>
+</html>
